@@ -1,6 +1,5 @@
 import React from 'react';
 import { Abs, SCALE, pt } from '../SlideStage';
-import { img } from '../assets';
 
 /**
  * Кит переиспользуемых элементов слайдов JVO v2.
@@ -34,14 +33,19 @@ export const Card: React.FC<CardProps> = ({
   </Abs>
 );
 
-// ── JBadge: бейдж-логотип «J» в правом верхнем углу контентных слайдов ──
-export const JBadge: React.FC<{ deck: string; file?: string; x?: number; y?: number; size?: number }> = ({
-  deck, file = 'img_83ddcd244300.png', x = 899.4, y = 18.9, size = 41.7,
-}) => (
-  <Abs x={x} y={y} w={size} h={size}>
-    <img src={img(deck, file)} style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
-  </Abs>
-);
+// ── JBadge: официальный знак ДЖИВИО в правом верхнем углу контентных слайдов ──
+type SignVariant = 'pink' | 'eggplant' | 'black' | 'white' | 'mark-light' | 'mark-dark';
+// deck/file оставлены для обратной совместимости вызовов <JBadge deck={D} /> (игнорируются).
+export const JBadge: React.FC<{ deck?: string; file?: string; x?: number; y?: number; size?: number; variant?: SignVariant }> = ({
+  x = 899.4, y = 18.9, size = 41.7, variant = 'pink',
+}) => {
+  const isMark = variant === 'mark-light' || variant === 'mark-dark';
+  return (
+    <Abs x={x} y={y} w={size} h={size}>
+      <img src={`/sign/sign-${variant}.png`} style={{ width: '100%', height: '100%', objectFit: 'contain', borderRadius: isMark ? 0 : size * 0.28 * SCALE }} />
+    </Abs>
+  );
+};
 
 // ── SlideTitle: заголовок слайда (Unbounded SemiBold) ──────────────────
 export const SlideTitle: React.FC<{

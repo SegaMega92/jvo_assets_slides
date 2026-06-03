@@ -17,8 +17,10 @@ const Frame: React.FC<{ dark?: boolean }> = ({ dark }) => (
   <Abs x={3} y={3} w={954} h={534} z={50} style={{ border: `${pt(6)}px solid #FF66CC`, borderRadius: pt(22), pointerEvents: 'none' }} />
 );
 const JMark: React.FC<{ light?: boolean }> = ({ light }) => (
-  <Abs x={905} y={20} w={38} h={38} z={40} style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-    <span style={{ fontFamily: 'Unbounded', fontWeight: 800, fontSize: pt(30), color: light ? '#FFFFFF' : '#15181F', lineHeight: 1 }}>Ɉ</span>
+  <Abs x={905} y={20} w={38} h={38} z={40}>
+    {/* на тёмном фоне — чистый белый знак, на светлом — розовая плитка-знак */}
+    <img src={light ? '/sign/sign-mark-light.png' : '/sign/sign-pink.png'}
+      style={{ width: '100%', height: '100%', objectFit: 'contain', borderRadius: light ? 0 : 38 * 0.28 * SCALE }} />
   </Abs>
 );
 const StudiaStage: React.FC<{ background?: string; dark?: boolean; children: React.ReactNode }> = ({ background = '#FFFFFF', dark, children }) => (

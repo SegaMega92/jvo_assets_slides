@@ -19,8 +19,23 @@ type S = StoryObj<typeof Wordmark>;
 export const Wordmark_: S = { name: 'Wordmark', args: { suffix: 'студия', theme: 'dark', size: 44 } };
 
 export const JBadge_: StoryObj = {
-  name: 'JBadge',
-  render: () => <Row align="center"><JBadge variant="pink" /><JBadge variant="dark" /></Row>,
+  name: 'JBadge (знак)',
+  render: () => (
+    <div style={{ display: 'flex', flexDirection: 'column', gap: 28 }}>
+      <Row align="center">
+        {(['pink', 'eggplant', 'black', 'white'] as const).map((v) => (
+          <div key={v} style={{ textAlign: 'center', fontFamily: 'Manrope', fontSize: 14, color: '#777' }}>
+            <JBadge variant={v} size={120} /><div style={{ marginTop: 8 }}>{v}</div>
+          </div>
+        ))}
+      </Row>
+      {/* «чистые» знаки без фона — показаны на контрастных подложках */}
+      <Row align="center">
+        <div style={{ background: '#15181F', borderRadius: 16, padding: 20 }}><JBadge variant="mark-light" size={120} /></div>
+        <div style={{ background: '#FFFFFF', border: '1px solid #ECE3E9', borderRadius: 16, padding: 20 }}><JBadge variant="mark-dark" size={120} /></div>
+      </Row>
+    </div>
+  ),
 };
 
 export const Frame_: StoryObj = {

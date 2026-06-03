@@ -24,21 +24,37 @@ export const Wordmark: React.FC<WordmarkProps> = ({ suffix, theme = 'dark', size
   );
 };
 
-// ─────────────────────────────────────────── JBadge
+// ─────────────────────────────────────────── JBadge (знак ДЖИВИО)
+/** Варианты знака: 4 с фоном-плиткой + 2 «чистых» (прозрачный фон) для размещения на любом фоне. */
+export type SignVariant = 'pink' | 'eggplant' | 'black' | 'white' | 'mark-light' | 'mark-dark';
+const SIGN_SRC: Record<SignVariant, string> = {
+  pink: '/sign/sign-pink.png',          // розовый фон, тёмный знак
+  eggplant: '/sign/sign-eggplant.png',  // тёмно-розовый фон, розовый знак
+  black: '/sign/sign-black.png',        // чёрный фон, белый знак
+  white: '/sign/sign-white.png',        // белый фон, тёмный знак
+  'mark-light': '/sign/sign-mark-light.png', // только знак, белый (на тёмном фоне)
+  'mark-dark': '/sign/sign-mark-dark.png',   // только знак, тёмный (на светлом фоне)
+};
 export interface JBadgeProps {
   /** Размер, px */
   size?: number;
-  /** Цветовой вариант */
-  variant?: 'pink' | 'dark';
+  /** Вариант знака (фон/цвет). 'dark' — синоним 'black' (обратная совместимость). */
+  variant?: SignVariant | 'dark';
+  /** Радиус скругления плитки (для вариантов с фоном); по умолчанию size*0.28. */
+  radius?: number;
 }
-/** Бейдж-логотип «J» — маркер в правом верхнем углу контентных слайдов. */
-export const JBadge: React.FC<JBadgeProps> = ({ size = 84, variant = 'pink' }) => {
-  const bg = variant === 'pink' ? colors.brand.pink : colors.bg.dark;
-  const fg = variant === 'pink' ? colors.brand.eggplant : '#FFFFFF';
+/** Знак ДЖИВИО — официальный логотип-знак. Реальные PNG, 6 вариаций. */
+export const JBadge: React.FC<JBadgeProps> = ({ size = 84, variant = 'pink', radius }) => {
+  const v: SignVariant = variant === 'dark' ? 'black' : variant;
+  const isMark = v === 'mark-light' || v === 'mark-dark';
   return (
-    <span style={{ display: 'inline-flex', alignItems: 'center', justifyContent: 'center', width: size, height: size, borderRadius: size * 0.28, background: bg }}>
-      <span style={{ fontFamily: F.display, fontWeight: 800, fontSize: size * 0.62, color: fg, lineHeight: 1 }}>Ɉ</span>
-    </span>
+    <img
+      src={SIGN_SRC[v]}
+      width={size}
+      height={size}
+      alt="ДЖИВИО"
+      style={{ display: 'block', borderRadius: isMark ? 0 : (radius ?? size * 0.28), objectFit: 'contain' }}
+    />
   );
 };
 
