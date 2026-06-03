@@ -1,0 +1,1 @@
+const e={tags:["autodocs"],parameters:{layout:"fullscreen",backgrounds:{disable:!0},viewport:{viewports:{slide:{name:"Слайд 16:9 (1920×1080)",styles:{width:"1920px",height:"1080px"},type:"desktop"}}}}};export{e as default};

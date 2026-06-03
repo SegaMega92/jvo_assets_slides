@@ -1,0 +1,1 @@
+const t={BASE_URL:"/jvo_assets_slides/",DEV:!1,MODE:"production",PROD:!0,SSR:!1,STORYBOOK:"true"},a=typeof import.meta<"u"&&t&&"/jvo_assets_slides/"||"/",o=s=>a.replace(/\/$/,"")+"/"+String(s).replace(/^\/+/,""),_=(s,e)=>o(`v2assets/${s}/${e}`);export{o as a,_ as i};
