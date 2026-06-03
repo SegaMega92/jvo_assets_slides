@@ -1,6 +1,7 @@
 import type { Meta, StoryObj } from '@storybook/react';
 import React from 'react';
 import { SlideStage } from '../SlideStage';
+import { asset } from '../assets';
 import { colors, fonts } from '../../tokens';
 import { Title, Body, Pill, Tag, Surface, IconBadge } from '../lib/primitives';
 import { AgentCard } from '../lib/cards';
@@ -19,7 +20,7 @@ const PINK = colors.brand.pink;
 const LIME = 'linear-gradient(90deg,#D6FE9E,#FFF2CC)';
 
 /** Логотип клиента-картинка (служится из /assets/clients). */
-const clientLogo = (name: string) => `/assets/clients/${name}.png`;
+const clientLogo = (name: string) => asset(`assets/clients/${name}.png`);
 const TRUST_LOGOS = [
   'Рив Гош', 'Вкуссвил', 'Эксмо', 'Ортека', 'Grass', 'Mixit',
   'Splat', 'Polaris', 'Likato', 'Luxvisage', 'Leomax', 'Май',

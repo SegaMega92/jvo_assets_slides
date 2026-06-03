@@ -1,5 +1,6 @@
 import React from 'react';
 import { Abs, SCALE, pt } from '../SlideStage';
+import { asset } from '../assets';
 
 /**
  * Кит переиспользуемых элементов слайдов JVO v2.
@@ -42,7 +43,7 @@ export const JBadge: React.FC<{ deck?: string; file?: string; x?: number; y?: nu
   const isMark = variant === 'mark-light' || variant === 'mark-dark';
   return (
     <Abs x={x} y={y} w={size} h={size}>
-      <img src={`/sign/sign-${variant}.png`} style={{ width: '100%', height: '100%', objectFit: 'contain', borderRadius: isMark ? 0 : size * 0.28 * SCALE }} />
+      <img src={asset(`sign/sign-${variant}.png`)} style={{ width: '100%', height: '100%', objectFit: 'contain', borderRadius: isMark ? 0 : size * 0.28 * SCALE }} />
     </Abs>
   );
 };

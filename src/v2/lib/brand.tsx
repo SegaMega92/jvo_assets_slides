@@ -1,5 +1,6 @@
 import React from 'react';
 import { colors, fonts } from '../../tokens';
+import { asset } from '../assets';
 
 /** Бренд-элементы JVO — автономные. */
 const F = fonts;
@@ -28,12 +29,12 @@ export const Wordmark: React.FC<WordmarkProps> = ({ suffix, theme = 'dark', size
 /** Варианты знака: 4 с фоном-плиткой + 2 «чистых» (прозрачный фон) для размещения на любом фоне. */
 export type SignVariant = 'pink' | 'eggplant' | 'black' | 'white' | 'mark-light' | 'mark-dark';
 const SIGN_SRC: Record<SignVariant, string> = {
-  pink: '/sign/sign-pink.png',          // розовый фон, тёмный знак
-  eggplant: '/sign/sign-eggplant.png',  // тёмно-розовый фон, розовый знак
-  black: '/sign/sign-black.png',        // чёрный фон, белый знак
-  white: '/sign/sign-white.png',        // белый фон, тёмный знак
-  'mark-light': '/sign/sign-mark-light.png', // только знак, белый (на тёмном фоне)
-  'mark-dark': '/sign/sign-mark-dark.png',   // только знак, тёмный (на светлом фоне)
+  pink: asset('sign/sign-pink.png'),          // розовый фон, тёмный знак
+  eggplant: asset('sign/sign-eggplant.png'),  // тёмно-розовый фон, розовый знак
+  black: asset('sign/sign-black.png'),        // чёрный фон, белый знак
+  white: asset('sign/sign-white.png'),        // белый фон, тёмный знак
+  'mark-light': asset('sign/sign-mark-light.png'), // только знак, белый (на тёмном фоне)
+  'mark-dark': asset('sign/sign-mark-dark.png'),   // только знак, тёмный (на светлом фоне)
 };
 export interface JBadgeProps {
   /** Размер, px */

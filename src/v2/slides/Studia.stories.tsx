@@ -1,7 +1,7 @@
 import type { Meta, StoryObj } from '@storybook/react';
 import React from 'react';
 import { SlideStage, Abs, pt, SCALE } from '../SlideStage';
-import { img } from '../assets';
+import { img, asset } from '../assets';
 import { Card, Text, Pill } from '../components/kit';
 
 const D = 'studia';
@@ -19,7 +19,7 @@ const Frame: React.FC<{ dark?: boolean }> = ({ dark }) => (
 const JMark: React.FC<{ light?: boolean }> = ({ light }) => (
   <Abs x={905} y={20} w={38} h={38} z={40}>
     {/* на тёмном фоне — чистый белый знак, на светлом — розовая плитка-знак */}
-    <img src={light ? '/sign/sign-mark-light.png' : '/sign/sign-pink.png'}
+    <img src={light ? asset('sign/sign-mark-light.png') : asset('sign/sign-pink.png')}
       style={{ width: '100%', height: '100%', objectFit: 'contain', borderRadius: light ? 0 : 38 * 0.28 * SCALE }} />
   </Abs>
 );
