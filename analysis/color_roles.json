@@ -1,0 +1,193 @@
+{
+  "_meta": {
+    "source": "color_frequency.json + ручная интерпретация",
+    "slides_analyzed": 86,
+    "files": 3
+  },
+
+  "brand": {
+    "primary": {
+      "hex": "#FF8FDA",
+      "name": "JVO Pink",
+      "spread_pct": 36.0,
+      "uses": ["акцентные плашки", "иконки", "выделения", "tags", "карточки кейсов"]
+    },
+    "primaryDark": {
+      "hex": "#410031",
+      "name": "JVO Eggplant",
+      "spread_pct": 59.3,
+      "uses": ["основной текст на светлом фоне", "тёмные плашки", "headings"]
+    },
+    "pinkLight": {
+      "hex": "#FFE4F6",
+      "name": "JVO Pink Light",
+      "spread_pct": 16.3,
+      "uses": ["фон карточек кейсов", "пастельные блоки"]
+    },
+    "pinkPale": {
+      "hex": "#FFCFEF",
+      "name": "JVO Pink Pale",
+      "spread_pct": 4.7,
+      "uses": ["обводки", "вспомогательные пастели"]
+    }
+  },
+
+  "accent": {
+    "purple": {
+      "hex": "#34034C",
+      "name": "Deep Purple",
+      "spread_pct": 18.6,
+      "uses": ["section dividers", "тёмные акцентные блоки"]
+    },
+    "purpleLight": {
+      "hex": "#EAD7FE",
+      "name": "Purple Light",
+      "spread_pct": 14.0,
+      "uses": ["пастельные плашки", "лёгкие фоны"]
+    },
+    "purplePale": {
+      "hex": "#E0B7FE",
+      "name": "Purple Pale",
+      "spread_pct": 9.3,
+      "uses": ["акцентный текст"]
+    },
+    "lime": {
+      "hex": "#D8F995",
+      "name": "Fresh Lime",
+      "spread_pct": 17.4,
+      "uses": ["positive callouts", "доступные тарифы", "highlights"]
+    },
+    "limePale": {
+      "hex": "#EBF9C1",
+      "name": "Lime Pale",
+      "spread_pct": 4.7,
+      "uses": ["пастельные фоны"]
+    },
+    "limeDark": {
+      "hex": "#1F2A09",
+      "name": "Lime Dark",
+      "spread_pct": 22.1,
+      "uses": ["тёмный текст на lime", "тёмные акцентные блоки"]
+    },
+    "limeText": {
+      "hex": "#D6FE9E",
+      "name": "Lime Text",
+      "spread_pct": 7.0,
+      "uses": ["текст на тёмном lime"]
+    }
+  },
+
+  "background": {
+    "white": {
+      "hex": "#FFFFFF",
+      "name": "White",
+      "spread_pct": 69.8,
+      "uses": ["основной фон слайда", "карточки на тёмном"]
+    },
+    "offwhite": {
+      "hex": "#FBFBFB",
+      "name": "Off White",
+      "spread_pct": 10.5,
+      "uses": ["вторичные блоки"]
+    },
+    "softGray": {
+      "hex": "#F2F3FA",
+      "name": "Soft Gray",
+      "spread_pct": 11.6,
+      "uses": ["нейтральные плашки"]
+    },
+    "darkBg": {
+      "hex": "#15181F",
+      "name": "Dark Background",
+      "spread_pct": 23.3,
+      "uses": ["тёмные слайды", "section dividers"]
+    }
+  },
+
+  "text": {
+    "primary": {
+      "hex": "#410031",
+      "name": "Text Primary",
+      "spread_pct": 59.3,
+      "uses": ["основной текст / заголовки"]
+    },
+    "primaryAlt": {
+      "hex": "#15181F",
+      "name": "Text Primary Alt",
+      "spread_pct": 23.3,
+      "uses": ["альтернативный тёмный текст"]
+    },
+    "black": {
+      "hex": "#000000",
+      "name": "Text Black",
+      "spread_pct": 34.9,
+      "uses": ["абсолютный чёрный для таблиц/диаграмм"]
+    },
+    "onDark": {
+      "hex": "#FFFFFF",
+      "name": "Text on Dark",
+      "spread_pct": 69.8,
+      "uses": ["текст на тёмном фоне"]
+    },
+    "muted": {
+      "hex": "#999999",
+      "name": "Text Muted",
+      "spread_pct": 19.8,
+      "uses": ["вторичный текст / captions"]
+    },
+    "mutedDark": {
+      "hex": "#595959",
+      "name": "Text Muted Dark",
+      "spread_pct": 16.3,
+      "uses": ["captions на светлом / линии"]
+    },
+    "mutedMid": {
+      "hex": "#666666",
+      "name": "Text Muted Mid",
+      "spread_pct": 5.8,
+      "uses": ["promo / supporting text"]
+    }
+  },
+
+  "border": {
+    "subtle": {
+      "hex": "#EFEFEF",
+      "name": "Border Subtle",
+      "spread_pct": 15.1,
+      "uses": ["разделители таблиц"]
+    },
+    "divider": {
+      "hex": "#F3F3F3",
+      "name": "Divider",
+      "spread_pct": 4.7,
+      "uses": ["лёгкие разделители"]
+    },
+    "rule": {
+      "hex": "#595959",
+      "name": "Rule",
+      "spread_pct": 16.3,
+      "uses": ["явные линии-разделители"]
+    }
+  },
+
+  "semantic": {
+    "infoBlue": {
+      "hex": "#4285F4",
+      "name": "Info Blue",
+      "spread_pct": 27.9,
+      "uses": ["ссылки", "технические выделения (Google-стиль)"]
+    },
+    "warning": {
+      "hex": "#FFAB40",
+      "name": "Warning Orange",
+      "spread_pct": 2.3,
+      "uses": ["акценты предупреждений"]
+    },
+    "success": {
+      "hex": "#9ECF38",
+      "name": "Success Green",
+      "spread_pct": 2.3,
+      "uses": ["позитивные индикаторы"]
+    }
+  }
+}

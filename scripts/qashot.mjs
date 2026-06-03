@@ -1,0 +1,11 @@
+import puppeteer from 'puppeteer-core';
+const CHROME='/Applications/Google Chrome.app/Contents/MacOS/Google Chrome';
+const [,,id,out]=process.argv;
+const b=await puppeteer.launch({executablePath:CHROME,headless:'new',args:['--no-sandbox']});
+const p=await b.newPage();
+await p.setViewport({width:1500,height:1000,deviceScaleFactor:1});
+await p.goto(`http://localhost:6006/iframe.html?id=${encodeURIComponent(id)}&viewMode=story`,{waitUntil:'networkidle0',timeout:60000});
+await p.evaluate(async()=>{if(document.fonts)await document.fonts.ready;});
+await new Promise(r=>setTimeout(r,700));
+await p.screenshot({path:out,fullPage:true});
+await b.close();console.log('shot',out);

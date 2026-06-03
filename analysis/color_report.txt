@@ -1,0 +1,44 @@
+Total slides analyzed: 86
+Unique colors: 39
+
+HEX       SPREAD    %      COUNT   FILES   ROLES
+--------------------------------------------------------------------------------
+#FFFFFF   60        69.8   141     3       fill:89,text:50,line:2
+#410031   51        59.3   309     2       text:256,fill:53
+#FF8FDA   31        36.0   118     3       text:30,fill:81,line:7
+#000000   30        34.9   149     2       text:149
+#4285F4   24        27.9   55      2       text:49,line:5,fill:1
+#15181F   20        23.3   148     3       text:136,fill:12
+#1F2A09   19        22.1   98      2       text:72,fill:26
+#999999   17        19.8   26      3       text:26
+#34034C   16        18.6   44      2       text:30,fill:14
+#D8F995   15        17.4   93      2       text:35,fill:58
+#FFE4F6   14        16.3   35      3       text:26,fill:9
+#595959   14        16.3   18      2       line:8,fill:10
+#EFEFEF   13        15.1   22      3       line:22
+#EAD7FE   12        14.0   26      2       fill:10,text:16
+#F2F3FA   10        11.6   19      3       line:6,fill:13
+#FBFBFB   9         10.5   32      2       fill:32
+#E0B7FE   8         9.3    14      2       text:14
+#EEEEEE   7         8.1    34      2       text:32,fill:2
+#D6FE9E   6         7.0    12      2       text:12
+#B7B7B7   5         5.8    12      3       text:12
+#666666   5         5.8    23      2       text:23
+#FFCFEF   4         4.7    13      2       line:13
+#F3F3F3   4         4.7    6       2       line:6
+#0097A7   4         4.7    12      2       text:10,fill:2
+#EBF9C1   4         4.7    4       1       fill:4
+#FFECB7   3         3.5    7       2       fill:1,text:6
+#FFDBD2   3         3.5    22      2       line:2,text:20
+#EEFF41   2         2.3    6       1       line:1,text:5
+#2A1E01   2         2.3    10      2       text:4,fill:6
+#FACF61   2         2.3    6       2       text:6
+#5B0F00   2         2.3    4       2       text:4
+#381300   2         2.3    6       2       fill:6
+#FF965F   2         2.3    6       2       text:6
+#78909C   2         2.3    6       2       text:6
+#FFF2CC   2         2.3    2       1       fill:2
+#38761D   2         2.3    2       1       text:2
+#9ECF38   2         2.3    16      1       text:16
+#A64D79   1         1.2    4       1       text:4
+#FEE2E2   1         1.2    2       1       line:2

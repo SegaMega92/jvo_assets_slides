@@ -1,0 +1,757 @@
+[
+  {
+    "file": "Копия ✅ КП Дживио enerprise.pptx",
+    "slide_w_px": 960,
+    "slide_h_px": 540,
+    "master_shapes": [],
+    "layouts": [
+      {
+        "name": "CUSTOM_1",
+        "used_by_slides": 0,
+        "shapes": []
+      },
+      {
+        "name": "TITLE",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;8;p3",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "SECTION_HEADER",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;10;p4",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "TITLE_AND_BODY",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;12;p5",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "TITLE_AND_TWO_COLUMNS",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;14;p6",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "TITLE_ONLY",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;16;p7",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "ONE_COLUMN_TEXT",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;18;p8",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "MAIN_POINT",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;20;p9",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "SECTION_TITLE_AND_DESCRIPTION",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;22;p10",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "CAPTION_ONLY",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;24;p11",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "BIG_NUMBER",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;26;p12",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "BLANK",
+        "used_by_slides": 1,
+        "shapes": [
+          {
+            "name": "Google Shape;28;p13",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "BLANK_1",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;30;p14",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "BLANK_1_1",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;32;p15",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "CUSTOM",
+        "used_by_slides": 0,
+        "shapes": []
+      },
+      {
+        "name": "CUSTOM_5_2",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;35;p17",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 95.5,
+            "top_pct": 3.5,
+            "w_pct": 2.5,
+            "h_pct": 5.4
+          }
+        ]
+      },
+      {
+        "name": "CUSTOM_5_1",
+        "used_by_slides": 43,
+        "shapes": []
+      }
+    ]
+  },
+  {
+    "file": "✅ КП Дживио.pptx",
+    "slide_w_px": 960,
+    "slide_h_px": 540,
+    "master_shapes": [],
+    "layouts": [
+      {
+        "name": "CUSTOM_1",
+        "used_by_slides": 0,
+        "shapes": []
+      },
+      {
+        "name": "TITLE",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;8;p3",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "SECTION_HEADER",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;10;p4",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "TITLE_AND_BODY",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;12;p5",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "TITLE_AND_TWO_COLUMNS",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;14;p6",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "TITLE_ONLY",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;16;p7",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "ONE_COLUMN_TEXT",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;18;p8",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "MAIN_POINT",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;20;p9",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "SECTION_TITLE_AND_DESCRIPTION",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;22;p10",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "CAPTION_ONLY",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;24;p11",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "BIG_NUMBER",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;26;p12",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "BLANK",
+        "used_by_slides": 1,
+        "shapes": [
+          {
+            "name": "Google Shape;28;p13",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "BLANK_1",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;30;p14",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "BLANK_1_1",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;32;p15",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 0.0,
+            "top_pct": 0.0,
+            "w_pct": 100.0,
+            "h_pct": 100.0
+          }
+        ]
+      },
+      {
+        "name": "CUSTOM",
+        "used_by_slides": 0,
+        "shapes": []
+      },
+      {
+        "name": "CUSTOM_5_2",
+        "used_by_slides": 0,
+        "shapes": [
+          {
+            "name": "Google Shape;35;p17",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 95.5,
+            "top_pct": 3.5,
+            "w_pct": 2.5,
+            "h_pct": 5.4
+          }
+        ]
+      },
+      {
+        "name": "CUSTOM_5_1",
+        "used_by_slides": 31,
+        "shapes": []
+      }
+    ]
+  },
+  {
+    "file": "✅ Студия КП Комплексное ведение кабинета.pptx",
+    "slide_w_px": 960,
+    "slide_h_px": 540,
+    "master_shapes": [
+      {
+        "name": "Google Shape;6;p1",
+        "shape_type": "AUTO_SHAPE (1)",
+        "depth": 0,
+        "left_pct": -0.1,
+        "top_pct": -0.3,
+        "w_pct": 100.2,
+        "h_pct": 100.5
+      },
+      {
+        "name": "Google Shape;7;p1",
+        "shape_type": "PLACEHOLDER (14)",
+        "depth": 0,
+        "left_pct": 3.4,
+        "top_pct": 8.7,
+        "w_pct": 93.2,
+        "h_pct": 11.1,
+        "placeholder": {
+          "type": "TITLE (1)",
+          "idx": 0
+        }
+      },
+      {
+        "name": "Google Shape;8;p1",
+        "shape_type": "PLACEHOLDER (14)",
+        "depth": 0,
+        "left_pct": 3.4,
+        "top_pct": 22.4,
+        "w_pct": 93.2,
+        "h_pct": 66.4,
+        "placeholder": {
+          "type": "BODY (2)",
+          "idx": 1
+        }
+      },
+      {
+        "name": "Google Shape;9;p1",
+        "shape_type": "PLACEHOLDER (14)",
+        "depth": 0,
+        "left_pct": 92.7,
+        "top_pct": 90.7,
+        "w_pct": 6.0,
+        "h_pct": 7.7,
+        "placeholder": {
+          "type": "SLIDE_NUMBER (13)",
+          "idx": 12
+        },
+        "text_preview": "‹#›"
+      }
+    ],
+    "layouts": [
+      {
+        "name": "CUSTOM_5",
+        "used_by_slides": 6,
+        "shapes": [
+          {
+            "name": "Google Shape;11;p2",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 95.5,
+            "top_pct": 3.5,
+            "w_pct": 2.5,
+            "h_pct": 5.4
+          }
+        ]
+      },
+      {
+        "name": "CUSTOM_5_2",
+        "used_by_slides": 1,
+        "shapes": [
+          {
+            "name": "Google Shape;13;p3",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 95.5,
+            "top_pct": 3.5,
+            "w_pct": 2.5,
+            "h_pct": 5.4
+          }
+        ]
+      },
+      {
+        "name": "CUSTOM_1",
+        "used_by_slides": 1,
+        "shapes": [
+          {
+            "name": "Google Shape;15;p4",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 2.0,
+            "top_pct": 3.0,
+            "w_pct": 31.6,
+            "h_pct": 6.2
+          },
+          {
+            "name": "Google Shape;16;p4",
+            "shape_type": "AUTO_SHAPE (1)",
+            "depth": 0,
+            "left_pct": 62.6,
+            "top_pct": 3.5,
+            "w_pct": 35.4,
+            "h_pct": 93.0
+          },
+          {
+            "name": "Google Shape;17;p4",
+            "shape_type": "PLACEHOLDER (14)",
+            "depth": 0,
+            "left_pct": 1.9,
+            "top_pct": 16.2,
+            "w_pct": 55.8,
+            "h_pct": 25.0,
+            "placeholder": {
+              "type": "TITLE (1)",
+              "idx": 0
+            }
+          },
+          {
+            "name": "Google Shape;18;p4",
+            "shape_type": "PLACEHOLDER (14)",
+            "depth": 0,
+            "left_pct": 1.9,
+            "top_pct": 43.0,
+            "w_pct": 55.8,
+            "h_pct": 23.0,
+            "placeholder": {
+              "type": "BODY (2)",
+              "idx": 1
+            }
+          },
+          {
+            "name": "Google Shape;19;p4",
+            "shape_type": "AUTO_SHAPE (1)",
+            "depth": 0,
+            "left_pct": 2.0,
+            "top_pct": 76.4,
+            "w_pct": 20.5,
+            "h_pct": 9.3,
+            "text_preview": "Аккредитованая  | IT-компания"
+          },
+          {
+            "name": "Google Shape;20;p4",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 2.8,
+            "top_pct": 77.6,
+            "w_pct": 3.9,
+            "h_pct": 7.0
+          },
+          {
+            "name": "Google Shape;21;p4",
+            "shape_type": "AUTO_SHAPE (1)",
+            "depth": 0,
+            "left_pct": 23.3,
+            "top_pct": 76.4,
+            "w_pct": 14.1,
+            "h_pct": 9.3,
+            "text_preview": "Резидент  | Сколково"
+          },
+          {
+            "name": "Google Shape;22;p4",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 24.1,
+            "top_pct": 77.6,
+            "w_pct": 3.9,
+            "h_pct": 7.0
+          },
+          {
+            "name": "Google Shape;23;p4",
+            "shape_type": "AUTO_SHAPE (1)",
+            "depth": 0,
+            "left_pct": 38.2,
+            "top_pct": 76.4,
+            "w_pct": 19.5,
+            "h_pct": 9.3,
+            "text_preview": "Технологический партнер"
+          },
+          {
+            "name": "Google Shape;24;p4",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 39.1,
+            "top_pct": 77.6,
+            "w_pct": 3.9,
+            "h_pct": 7.0
+          },
+          {
+            "name": "Google Shape;25;p4",
+            "shape_type": "AUTO_SHAPE (1)",
+            "depth": 0,
+            "left_pct": 2.0,
+            "top_pct": 87.2,
+            "w_pct": 20.5,
+            "h_pct": 9.3,
+            "text_preview": "Авторизированный партнер"
+          },
+          {
+            "name": "Google Shape;26;p4",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 2.8,
+            "top_pct": 88.3,
+            "w_pct": 3.9,
+            "h_pct": 7.0
+          },
+          {
+            "name": "Google Shape;27;p4",
+            "shape_type": "AUTO_SHAPE (1)",
+            "depth": 0,
+            "left_pct": 23.3,
+            "top_pct": 87.2,
+            "w_pct": 25.7,
+            "h_pct": 9.3,
+            "text_preview": "Участник Московского инновационного кластера"
+          },
+          {
+            "name": "Google Shape;28;p4",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 24.1,
+            "top_pct": 88.3,
+            "w_pct": 3.9,
+            "h_pct": 7.0
+          }
+        ]
+      },
+      {
+        "name": "CUSTOM_2_2",
+        "used_by_slides": 1,
+        "shapes": [
+          {
+            "name": "Google Shape;30;p5",
+            "shape_type": "PLACEHOLDER (14)",
+            "depth": 0,
+            "left_pct": 1.9,
+            "top_pct": 19.1,
+            "w_pct": 71.7,
+            "h_pct": 77.4,
+            "placeholder": {
+              "type": "CENTER_TITLE (3)",
+              "idx": 0
+            }
+          },
+          {
+            "name": "Google Shape;31;p5",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 2.0,
+            "top_pct": 3.0,
+            "w_pct": 31.6,
+            "h_pct": 6.2
+          }
+        ]
+      },
+      {
+        "name": "CUSTOM_2_3",
+        "used_by_slides": 1,
+        "shapes": [
+          {
+            "name": "Google Shape;33;p6",
+            "shape_type": "PICTURE (13)",
+            "depth": 0,
+            "left_pct": 40.3,
+            "top_pct": 88.4,
+            "w_pct": 19.5,
+            "h_pct": 5.4
+          },
+          {
+            "name": "Google Shape;34;p6",
+            "shape_type": "PLACEHOLDER (14)",
+            "depth": 0,
+            "left_pct": 4.1,
+            "top_pct": 9.4,
+            "w_pct": 91.7,
+            "h_pct": 75.5,
+            "placeholder": {
+              "type": "TITLE (1)",
+              "idx": 0
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

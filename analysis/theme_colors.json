@@ -1,0 +1,56 @@
+[
+  {
+    "file": "Копия ✅ КП Дживио enerprise.pptx",
+    "theme_name": "Simple Light",
+    "colors": {
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#595959",
+      "lt2": "#EEEEEE",
+      "accent1": "#4285F4",
+      "accent2": "#212121",
+      "accent3": "#78909C",
+      "accent4": "#FFAB40",
+      "accent5": "#0097A7",
+      "accent6": "#EEFF41",
+      "hlink": "#0097A7",
+      "folHlink": "#0097A7"
+    }
+  },
+  {
+    "file": "✅ КП Дживио.pptx",
+    "theme_name": "Simple Light",
+    "colors": {
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#595959",
+      "lt2": "#EEEEEE",
+      "accent1": "#4285F4",
+      "accent2": "#212121",
+      "accent3": "#78909C",
+      "accent4": "#FFAB40",
+      "accent5": "#0097A7",
+      "accent6": "#EEFF41",
+      "hlink": "#0097A7",
+      "folHlink": "#0097A7"
+    }
+  },
+  {
+    "file": "✅ Студия КП Комплексное ведение кабинета.pptx",
+    "theme_name": "Simple Light",
+    "colors": {
+      "dk1": "#15181F",
+      "lt1": "#FFFFFF",
+      "dk2": "#F2F3FA",
+      "lt2": "#FFE4F6",
+      "accent1": "#FF8FDA",
+      "accent2": "#FFA04C",
+      "accent3": "#C16FFB",
+      "accent4": "#9ECF38",
+      "accent5": "#EBF9C1",
+      "accent6": "#FF5853",
+      "hlink": "#0000FF",
+      "folHlink": "#0097A7"
+    }
+  }
+]

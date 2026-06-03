@@ -1,0 +1,570 @@
+[
+  {
+    "hex": "#FFFFFF",
+    "count": 141,
+    "spread_slides": 60,
+    "spread_pct": 69.8,
+    "files_count": 3,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx",
+      "✅ Студия КП Комплексное ведение кабинета.pptx"
+    ],
+    "by_role": {
+      "fill": 89,
+      "text": 50,
+      "line": 2
+    }
+  },
+  {
+    "hex": "#410031",
+    "count": 309,
+    "spread_slides": 51,
+    "spread_pct": 59.3,
+    "files_count": 2,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx"
+    ],
+    "by_role": {
+      "text": 256,
+      "fill": 53
+    }
+  },
+  {
+    "hex": "#FF8FDA",
+    "count": 118,
+    "spread_slides": 31,
+    "spread_pct": 36.0,
+    "files_count": 3,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx",
+      "✅ Студия КП Комплексное ведение кабинета.pptx"
+    ],
+    "by_role": {
+      "text": 30,
+      "fill": 81,
+      "line": 7
+    }
+  },
+  {
+    "hex": "#000000",
+    "count": 149,
+    "spread_slides": 30,
+    "spread_pct": 34.9,
+    "files_count": 2,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx"
+    ],
+    "by_role": {
+      "text": 149
+    }
+  },
+  {
+    "hex": "#4285F4",
+    "count": 55,
+    "spread_slides": 24,
+    "spread_pct": 27.9,
+    "files_count": 2,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx"
+    ],
+    "by_role": {
+      "text": 49,
+      "line": 5,
+      "fill": 1
+    }
+  },
+  {
+    "hex": "#15181F",
+    "count": 148,
+    "spread_slides": 20,
+    "spread_pct": 23.3,
+    "files_count": 3,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx",
+      "✅ Студия КП Комплексное ведение кабинета.pptx"
+    ],
+    "by_role": {
+      "text": 136,
+      "fill": 12
+    }
+  },
+  {
+    "hex": "#1F2A09",
+    "count": 98,
+    "spread_slides": 19,
+    "spread_pct": 22.1,
+    "files_count": 2,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx"
+    ],
+    "by_role": {
+      "text": 72,
+      "fill": 26
+    }
+  },
+  {
+    "hex": "#999999",
+    "count": 26,
+    "spread_slides": 17,
+    "spread_pct": 19.8,
+    "files_count": 3,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx",
+      "✅ Студия КП Комплексное ведение кабинета.pptx"
+    ],
+    "by_role": {
+      "text": 26
+    }
+  },
+  {
+    "hex": "#34034C",
+    "count": 44,
+    "spread_slides": 16,
+    "spread_pct": 18.6,
+    "files_count": 2,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx"
+    ],
+    "by_role": {
+      "text": 30,
+      "fill": 14
+    }
+  },
+  {
+    "hex": "#D8F995",
+    "count": 93,
+    "spread_slides": 15,
+    "spread_pct": 17.4,
+    "files_count": 2,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx"
+    ],
+    "by_role": {
+      "text": 35,
+      "fill": 58
+    }
+  },
+  {
+    "hex": "#FFE4F6",
+    "count": 35,
+    "spread_slides": 14,
+    "spread_pct": 16.3,
+    "files_count": 3,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx",
+      "✅ Студия КП Комплексное ведение кабинета.pptx"
+    ],
+    "by_role": {
+      "text": 26,
+      "fill": 9
+    }
+  },
+  {
+    "hex": "#595959",
+    "count": 18,
+    "spread_slides": 14,
+    "spread_pct": 16.3,
+    "files_count": 2,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx"
+    ],
+    "by_role": {
+      "line": 8,
+      "fill": 10
+    }
+  },
+  {
+    "hex": "#EFEFEF",
+    "count": 22,
+    "spread_slides": 13,
+    "spread_pct": 15.1,
+    "files_count": 3,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx",
+      "✅ Студия КП Комплексное ведение кабинета.pptx"
+    ],
+    "by_role": {
+      "line": 22
+    }
+  },
+  {
+    "hex": "#EAD7FE",
+    "count": 26,
+    "spread_slides": 12,
+    "spread_pct": 14.0,
+    "files_count": 2,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx"
+    ],
+    "by_role": {
+      "fill": 10,
+      "text": 16
+    }
+  },
+  {
+    "hex": "#F2F3FA",
+    "count": 19,
+    "spread_slides": 10,
+    "spread_pct": 11.6,
+    "files_count": 3,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx",
+      "✅ Студия КП Комплексное ведение кабинета.pptx"
+    ],
+    "by_role": {
+      "line": 6,
+      "fill": 13
+    }
+  },
+  {
+    "hex": "#FBFBFB",
+    "count": 32,
+    "spread_slides": 9,
+    "spread_pct": 10.5,
+    "files_count": 2,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx"
+    ],
+    "by_role": {
+      "fill": 32
+    }
+  },
+  {
+    "hex": "#E0B7FE",
+    "count": 14,
+    "spread_slides": 8,
+    "spread_pct": 9.3,
+    "files_count": 2,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx"
+    ],
+    "by_role": {
+      "text": 14
+    }
+  },
+  {
+    "hex": "#EEEEEE",
+    "count": 34,
+    "spread_slides": 7,
+    "spread_pct": 8.1,
+    "files_count": 2,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx"
+    ],
+    "by_role": {
+      "text": 32,
+      "fill": 2
+    }
+  },
+  {
+    "hex": "#D6FE9E",
+    "count": 12,
+    "spread_slides": 6,
+    "spread_pct": 7.0,
+    "files_count": 2,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx"
+    ],
+    "by_role": {
+      "text": 12
+    }
+  },
+  {
+    "hex": "#B7B7B7",
+    "count": 12,
+    "spread_slides": 5,
+    "spread_pct": 5.8,
+    "files_count": 3,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx",
+      "✅ Студия КП Комплексное ведение кабинета.pptx"
+    ],
+    "by_role": {
+      "text": 12
+    }
+  },
+  {
+    "hex": "#666666",
+    "count": 23,
+    "spread_slides": 5,
+    "spread_pct": 5.8,
+    "files_count": 2,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ Студия КП Комплексное ведение кабинета.pptx"
+    ],
+    "by_role": {
+      "text": 23
+    }
+  },
+  {
+    "hex": "#FFCFEF",
+    "count": 13,
+    "spread_slides": 4,
+    "spread_pct": 4.7,
+    "files_count": 2,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx"
+    ],
+    "by_role": {
+      "line": 13
+    }
+  },
+  {
+    "hex": "#F3F3F3",
+    "count": 6,
+    "spread_slides": 4,
+    "spread_pct": 4.7,
+    "files_count": 2,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx"
+    ],
+    "by_role": {
+      "line": 6
+    }
+  },
+  {
+    "hex": "#0097A7",
+    "count": 12,
+    "spread_slides": 4,
+    "spread_pct": 4.7,
+    "files_count": 2,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx"
+    ],
+    "by_role": {
+      "text": 10,
+      "fill": 2
+    }
+  },
+  {
+    "hex": "#EBF9C1",
+    "count": 4,
+    "spread_slides": 4,
+    "spread_pct": 4.7,
+    "files_count": 1,
+    "files": [
+      "✅ Студия КП Комплексное ведение кабинета.pptx"
+    ],
+    "by_role": {
+      "fill": 4
+    }
+  },
+  {
+    "hex": "#FFECB7",
+    "count": 7,
+    "spread_slides": 3,
+    "spread_pct": 3.5,
+    "files_count": 2,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx"
+    ],
+    "by_role": {
+      "fill": 1,
+      "text": 6
+    }
+  },
+  {
+    "hex": "#FFDBD2",
+    "count": 22,
+    "spread_slides": 3,
+    "spread_pct": 3.5,
+    "files_count": 2,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx"
+    ],
+    "by_role": {
+      "line": 2,
+      "text": 20
+    }
+  },
+  {
+    "hex": "#EEFF41",
+    "count": 6,
+    "spread_slides": 2,
+    "spread_pct": 2.3,
+    "files_count": 1,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx"
+    ],
+    "by_role": {
+      "line": 1,
+      "text": 5
+    }
+  },
+  {
+    "hex": "#2A1E01",
+    "count": 10,
+    "spread_slides": 2,
+    "spread_pct": 2.3,
+    "files_count": 2,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx"
+    ],
+    "by_role": {
+      "text": 4,
+      "fill": 6
+    }
+  },
+  {
+    "hex": "#FACF61",
+    "count": 6,
+    "spread_slides": 2,
+    "spread_pct": 2.3,
+    "files_count": 2,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx"
+    ],
+    "by_role": {
+      "text": 6
+    }
+  },
+  {
+    "hex": "#5B0F00",
+    "count": 4,
+    "spread_slides": 2,
+    "spread_pct": 2.3,
+    "files_count": 2,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx"
+    ],
+    "by_role": {
+      "text": 4
+    }
+  },
+  {
+    "hex": "#381300",
+    "count": 6,
+    "spread_slides": 2,
+    "spread_pct": 2.3,
+    "files_count": 2,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx"
+    ],
+    "by_role": {
+      "fill": 6
+    }
+  },
+  {
+    "hex": "#FF965F",
+    "count": 6,
+    "spread_slides": 2,
+    "spread_pct": 2.3,
+    "files_count": 2,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx"
+    ],
+    "by_role": {
+      "text": 6
+    }
+  },
+  {
+    "hex": "#78909C",
+    "count": 6,
+    "spread_slides": 2,
+    "spread_pct": 2.3,
+    "files_count": 2,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx",
+      "✅ КП Дживио.pptx"
+    ],
+    "by_role": {
+      "text": 6
+    }
+  },
+  {
+    "hex": "#FFF2CC",
+    "count": 2,
+    "spread_slides": 2,
+    "spread_pct": 2.3,
+    "files_count": 1,
+    "files": [
+      "✅ Студия КП Комплексное ведение кабинета.pptx"
+    ],
+    "by_role": {
+      "fill": 2
+    }
+  },
+  {
+    "hex": "#38761D",
+    "count": 2,
+    "spread_slides": 2,
+    "spread_pct": 2.3,
+    "files_count": 1,
+    "files": [
+      "✅ Студия КП Комплексное ведение кабинета.pptx"
+    ],
+    "by_role": {
+      "text": 2
+    }
+  },
+  {
+    "hex": "#9ECF38",
+    "count": 16,
+    "spread_slides": 2,
+    "spread_pct": 2.3,
+    "files_count": 1,
+    "files": [
+      "✅ Студия КП Комплексное ведение кабинета.pptx"
+    ],
+    "by_role": {
+      "text": 16
+    }
+  },
+  {
+    "hex": "#A64D79",
+    "count": 4,
+    "spread_slides": 1,
+    "spread_pct": 1.2,
+    "files_count": 1,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx"
+    ],
+    "by_role": {
+      "text": 4
+    }
+  },
+  {
+    "hex": "#FEE2E2",
+    "count": 2,
+    "spread_slides": 1,
+    "spread_pct": 1.2,
+    "files_count": 1,
+    "files": [
+      "Копия ✅ КП Дживио enerprise.pptx"
+    ],
+    "by_role": {
+      "line": 2
+    }
+  }
+]

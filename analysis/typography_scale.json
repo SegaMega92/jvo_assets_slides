@@ -1,0 +1,118 @@
+{
+  "_meta": {
+    "source": "typography_dump.json + ручное назначение ролей",
+    "source_canvas": "960×540 (PowerPoint widescreen)",
+    "target_canvas": "1920×1080 (Storybook) — scale 2x",
+    "px_formula": "size_pt × 96/72 для 96dpi, ×2 для 1920×1080"
+  },
+
+  "fonts": {
+    "display": {
+      "family": "Unbounded",
+      "weights": ["Medium", "SemiBold"],
+      "fallback": "system-ui, sans-serif",
+      "google_fonts_url": "https://fonts.googleapis.com/css2?family=Unbounded:wght@500;600&display=swap"
+    },
+    "body": {
+      "family": "Manrope",
+      "weights": ["Medium", "SemiBold"],
+      "fallback": "system-ui, sans-serif",
+      "google_fonts_url": "https://fonts.googleapis.com/css2?family=Manrope:wght@500;600&display=swap"
+    }
+  },
+
+  "scale": {
+    "display": {
+      "size_pt": 48,
+      "size_px_1920": 128,
+      "family": "Unbounded",
+      "weight": 600,
+      "default_color": "#410031",
+      "use_cases": ["BigStatement крупная фраза"],
+      "slides_used": 4
+    },
+    "sectionTitle": {
+      "size_pt": 38,
+      "size_px_1920": 101,
+      "family": "Unbounded",
+      "weight": 600,
+      "default_color": "#15181F",
+      "use_cases": ["section dividers", "разделы"],
+      "slides_used": 2
+    },
+    "title": {
+      "size_pt": 28,
+      "size_px_1920": 75,
+      "family": "Unbounded",
+      "weight": 600,
+      "default_color": "#410031",
+      "use_cases": ["Заголовок слайда (основной)"],
+      "slides_used": 58,
+      "note": "Рабочая лошадка — на 67% всех слайдов"
+    },
+    "h3": {
+      "size_pt": 20,
+      "size_px_1920": 53,
+      "family": "Unbounded",
+      "weight": 600,
+      "default_color": "#410031",
+      "use_cases": ["Заголовок карточки", "подзаголовок"],
+      "slides_used": 7
+    },
+    "h4": {
+      "size_pt": 18,
+      "size_px_1920": 48,
+      "family": "Unbounded",
+      "weight": 600,
+      "default_color": "#34034C",
+      "use_cases": ["Минор-заголовки", "название тарифа"],
+      "slides_used": 8
+    },
+    "cardTitle": {
+      "size_pt": 16,
+      "size_px_1920": 43,
+      "family": "Unbounded",
+      "weight": 600,
+      "default_color": "#000000",
+      "use_cases": ["Заголовок блока в body"],
+      "slides_used": 12
+    },
+    "body": {
+      "size_pt": 12,
+      "size_px_1920": 32,
+      "family": "Manrope",
+      "weight": 500,
+      "default_color": "#410031",
+      "use_cases": ["Основной текст (lead, описания, body карточек)"],
+      "slides_used": 71,
+      "note": "Рабочая лошадка для текста — на 83% слайдов"
+    },
+    "small": {
+      "size_pt": 10,
+      "size_px_1920": 27,
+      "family": "Manrope",
+      "weight": 500,
+      "default_color": "#410031",
+      "use_cases": ["Подписи карточек", "tag labels", "factors grid"],
+      "slides_used": 51
+    },
+    "caption": {
+      "size_pt": 9,
+      "size_px_1920": 24,
+      "family": "Manrope",
+      "weight": 500,
+      "default_color": "#999999",
+      "use_cases": ["Captions", "метаданные", "footnotes"],
+      "slides_used": 15
+    },
+    "micro": {
+      "size_pt": 8,
+      "size_px_1920": 21,
+      "family": "Unbounded",
+      "weight": 500,
+      "default_color": "#410031",
+      "use_cases": ["Бейджи Сколково / IT-аккредитация", "микро-подписи"],
+      "slides_used": 10
+    }
+  }
+}
